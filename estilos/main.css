@@ -67,7 +67,7 @@ ul li{
     height: 16px;
     
     width: 190px;
-    background-image: url("../site/imagem/search.png");
+    background-image: url("../imagem/search.png");
     background-repeat: no-repeat;
     background-position: 96%;
     border: 2px solid #d6d6d6;
@@ -183,11 +183,11 @@ h3{
     text-align: left;
 }
 .footer{
-    background-image: url("../site/imagem/footer.png");
+    background-image: url("../imagem/footer.png");
     color: #ffffff;
 }
 .footer-2{
-    background-image: url("../site/imagem/footer2.png");
+    background-image: url("../imagem/footer2.png");
     color: #c1c1c1;
     height: 90px;
 }
@@ -207,7 +207,7 @@ h3{
     width: 15px;
     height: 15px;
     display: inline-block;
-    background-image: url("../site/imagem/clock.png");
+    background-image: url("../imagem/clock.png");
     float: left;
     background-repeat: no-repeat;
     padding-left: 5px;
@@ -232,11 +232,11 @@ h3{
 }
 
 .email::before{
-    background-image: url("../site/imagem/emailico.png");
+    background-image: url("../imagem/emailico.png");
 }
 .local::before{
-    background-image: url("../site/imagem/emailico.png");
+    background-image: url("../imagem/emailico.png");
 }
 .telefone::before{
-    background-image: url("../site/imagem/telefoneico.png");
+    background-image: url("../imagem/telefoneico.png");
 }
